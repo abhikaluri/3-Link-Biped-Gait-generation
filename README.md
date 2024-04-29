@@ -1,2 +1,3 @@
-# 3-Link-Biped-Gait-generation
-This is the sum of 4 mini projects done at northeastern as part of the subject legged robotics. The project report is attached as well.
+# EECE7398-project
+
+Run sim_full_dynamics.m to simulate the 3 link biped in the sagittal plane
